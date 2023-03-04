@@ -1,7 +1,5 @@
 name: Update packages
 on:
-  schedule:
-    - cron: '0 12 * * *'
   workflow_dispatch:
   workflow_run:
     workflows: ["Reset APT repo"]
