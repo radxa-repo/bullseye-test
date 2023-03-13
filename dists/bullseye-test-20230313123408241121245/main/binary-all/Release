@@ -1,0 +1,9 @@
+Archive: bullseye-test
+Component: main
+Origin: Radxa
+Label: Freight
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: all
+Date: Mon, 13 Mar 2023 12:34:08 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC

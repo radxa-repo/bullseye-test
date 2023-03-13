@@ -1,0 +1,9 @@
+Archive: amlogic-bullseye-test
+Component: main
+Origin: Radxa
+Label: Freight
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: arm64
+Date: Mon, 13 Mar 2023 12:34:07 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
