@@ -1,7 +1,7 @@
 name: Reset APT repo
 on:
-  schedule:
-    - cron: '0 20 * * *'
+  repository_dispatch:
+    types: [reset_repo]
   workflow_dispatch:
 
 jobs:
