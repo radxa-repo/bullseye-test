@@ -1,6 +1,7 @@
 {
   "camera_engine_rkaiq_rk3568": "5.0x1.2-rc2",
   "camera_engine_rkaiq_rk3588": "3.0x8.9",
+  "chromium-x11": "111.0.5563.147",
   "rockchip-prebuilt": "3.6",
   "xfce4-screensaver": "4.16.0-1"
 }
