@@ -7,6 +7,6 @@
   "rockchip-prebuilt": "3.6",
   "rockchip-pulseaudio-config": "0.3.3",
   "rockchip-udev": "0.3.1",
-  "vendor-profiles": "0.3.5",
+  "vendor-profiles": "0.3.6",
   "xfce4-screensaver": "4.16.0-1"
 }
