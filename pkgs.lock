@@ -1,5 +1,5 @@
 {
-  "camera_engine_rkaiq_rk3588": "bullseye-1",
+  "camera_engine_rkaiq_rk3588": "bullseye-4",
   "chromium-x11": "111.0.5563.147-2",
   "linux-rk2312": "0.1-1",
   "rockchip-alsa-config": "3.6-2",
