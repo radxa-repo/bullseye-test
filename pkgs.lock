@@ -7,6 +7,7 @@
   "rockchip-prebuilt": "3.6",
   "rockchip-pulseaudio-config": "0.3.3",
   "rockchip-udev": "0.3.1",
+  "rockchip-xserver": "rk3528_linux_release-linux-5.10-gen-rkr6",
   "vendor-profiles": "0.3.7",
   "xfce4-screensaver": "4.16.0-1"
 }
