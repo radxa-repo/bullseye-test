@@ -29,7 +29,7 @@
   "radxa-udev": "0.1.1",
   "linux-rockchip": "5.10.110-31",
   "rockchip-pulseaudio-config": "0.3.3",
-  "rockchip-udev": "0.3.1",
+  "rockchip-udev": "0.3.2",
   "vendor-profiles": "0.3.7",
   "u-boot-rknext": "2017.09-21",
   "radxa-system-config": "0.6.0",
