@@ -1,9 +1,0 @@
-Archive: bullseye-test
-Component: main
-Origin: Radxa
-Label: Freight
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: arm64
-Date: Wed, 27 Mar 2024 10:44:53 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
