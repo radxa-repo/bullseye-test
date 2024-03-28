@@ -1,0 +1,9 @@
+Archive: rockchip-bullseye-test
+Component: main
+Origin: Radxa
+Label: Freight
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: all
+Date: Thu, 28 Mar 2024 12:20:49 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC

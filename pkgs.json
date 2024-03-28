@@ -32,7 +32,7 @@
   "rockchip-udev": "0.3.2",
   "vendor-profiles": "0.3.7",
   "u-boot-rknext": "2017.09-22",
-  "radxa-system-config": "0.6.0",
+  "radxa-system-config": "0.6.1",
   "bluetuith": "0.2.0-1",
   "rknn2": "1.6.0-2",
   "8821cu": "5.12.0.4\u002Bgit20231215.eb52ece-3",
