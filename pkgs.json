@@ -19,7 +19,7 @@
   "radxa-bootutils": "0.2.4",
   "radxa-firmware": "0.2.21",
   "radxa-otgutils": "0.3.1",
-  "radxa-overlays": "0.1.4",
+  "radxa-overlays": "0.1.5",
   "radxa-plymouth-theme": "0.1.1",
   "radxa-profiles": "0.4.14",
   "radxa-repo-placeholder": "0.1.0",
