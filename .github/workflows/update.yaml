@@ -46,6 +46,8 @@ jobs:
         
         suites=(
             "bullseye-test"
+            "amlogic-bullseye-test"
+            "rockchip-bullseye-test"
         )
         
         pushd .infra-repo
