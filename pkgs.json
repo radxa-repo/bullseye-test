@@ -12,6 +12,7 @@
   "linux-rk356x": "5.10.160-34",
   "linux-rockchip": "5.10.110-37",
   "linux-stable": "6.1.68-2",
+  "mesa": "0.1.0",
   "mraa": "2.2.0-6",
   "r8125-dkms": "9.011.00-4-1",
   "radxa-alsa-config": "0.4.0",
