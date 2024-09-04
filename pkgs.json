@@ -53,6 +53,7 @@
   "vendor-profiles": "0.3.10",
   "vscodium-archive-keyring": "0.1.0",
   "xfce4-screensaver": "4.16.0-1",
+  "zfs": "2.2.5-1-1",
   "camera_engine_rkaiq_rk3588": "bullseye-4",
   "chromium-x11": "111.0.5563.147-2",
   "rockchip-pulseaudio-config": "0.3.3",
