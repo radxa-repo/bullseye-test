@@ -7,6 +7,7 @@
   "allwinner-profiles": "0.2.0",
   "android-tools-adbd": "5.1.1.r38-1.1",
   "bluetuith": "0.2.0-1",
+  "chromium-x11": "111.0.5563.147-2",
   "cix-drivers-dkms": "0.1.0-1",
   "cix-prebuilt": "beta2-2504",
   "cix-profiles": "0.3.1",
@@ -43,7 +44,7 @@
   "radxa-repo-placeholder": "0.1.1",
   "radxa-sddm-theme": "0.1.1",
   "radxa-system-config": "0.6.18",
-  "radxa-touchscreen-utils": "0.3.4",
+  "radxa-touchscreen-utils": "0.3.5",
   "radxa-udev": "0.1.4",
   "radxa-xorg-wrapper": "0.2.0",
   "repolib": "1.3.0",
@@ -69,7 +70,6 @@
   "xfce4-screensaver": "4.16.0-1",
   "zfs": "2.2.5-1-1",
   "camera_engine_rkaiq_rk3588": "bullseye-4",
-  "chromium-x11": "111.0.5563.147-2",
   "rockchip-pulseaudio-config": "0.3.3",
   "rockchip-xserver": "rk3528_linux_release-linux-5.10-gen-rkr6"
 }
