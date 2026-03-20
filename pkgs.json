@@ -32,7 +32,6 @@
   "linux-aw2511": "0.1.0-1",
   "linux-qc2509": "6.8.12-4",
   "linux-qcom": "6.18.2-3",
-  "linux-rk2501": "6.1.115-8",
   "linux-rk356x": "5.10.160-39",
   "linux-sky1": "6.6.89-4",
   "linux-stable": "6.1.68-3",
@@ -86,6 +85,7 @@
   "xfce4-screensaver": "4.16.0-1",
   "zfs": "2.2.5-1-1",
   "camera_engine_rkaiq_rk3588": "bullseye-4",
+  "linux-rockchip": "5.10.110-39",
   "rockchip-pulseaudio-config": "0.3.3",
   "rockchip-xserver": "rk3528_linux_release-linux-5.10-gen-rkr6"
 }
