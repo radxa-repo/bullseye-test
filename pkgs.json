@@ -25,6 +25,7 @@
   "gl4es": "1.1.6",
   "gnome-control-center": "1-43.6-2-deb12u1radxa1",
   "gstreamer-rockchip": "1.14-5",
+  "libcamera": "0.7.1-1-radxa-1",
   "libdrm": "2.4.122+git2407090927.b065db.oibaf.j",
   "libreelec-alsa-utils": "11.0.1-4",
   "librtui": "0.2.2",
