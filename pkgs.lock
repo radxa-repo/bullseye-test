@@ -17,5 +17,6 @@
   "rockchip-udev": "0.3.3",
   "rockchip-xserver": "rk3528_linux_release-linux-5.10-gen-rkr6",
   "vendor-profiles": "0.3.10",
-  "xfce4-screensaver": "4.16.0-1"
+  "xfce4-screensaver": "4.16.0-1",
+  "mutter": null
 }
