@@ -4,7 +4,7 @@
   "aic8800": "5.0+git20260123.5f7be68d-8",
   "allwinner-prebuilt-extra": "0.1.11",
   "allwinner-prebuilt": "1.4.10-2",
-  "allwinner-profiles": "0.2.9",
+  "allwinner-profiles": "0.2.10",
   "alsa-ucm-conf": "1.2.16.1-radxa-2",
   "android-tools-adbd": "5.1.1.r38-1.1",
   "audioreach-topology": "1.0.4-3",
